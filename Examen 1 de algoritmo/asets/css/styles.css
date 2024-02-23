@@ -1,0 +1,41 @@
+/* p {
+   background-color: cyan; 
+   margin: 10px;
+}
+
+.estaEsclase {
+    background-color: green;
+}
+
+#titulo {
+    background-color: blueviolet;
+} */
+
+body {
+    background-color: #1c1c1c;
+    color: #ffff;
+    font-family: 'Carrois Gothic SC', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.contenido {
+    max-width: 600px;
+    margin: 50px auto;
+}
+h1{
+    color: #ffff;
+}
+a{
+    color: turquoise;
+    text-decoration: none ;
+}
+a:hover{
+   text-decoration: underline;
+}
+p {
+    margin-bottom: 20px;
+}
+.hasttag {
+    color: #00cc66;
+}
